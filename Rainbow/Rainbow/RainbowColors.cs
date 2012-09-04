@@ -13,6 +13,6 @@ namespace Rainbow
         }
 
 
-        static List<string> colorListByAppearing = new List<string> { "Red", "Orange", "Yellow", "Green", "Indigo", "Violet" };
+        static List<string> colorListByAppearing = new List<string> { "Red", "Orange", "Yellow", "Green","Blue", "Indigo", "Violet" };
     }
 }
